@@ -1,0 +1,87 @@
+/* Simple stylesheet for the better viewing of the tables */
+/* @Author Albert Lionelle 
+           Colorado State University
+ */
+
+body,html {
+    font-family: 'prox-regular', sans-serif;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+div.content {
+    max-width: 1027px;
+    text-align:center;
+    margin: auto auto;
+}
+
+a {
+    color: #D9782D;
+    font-weight: bold;
+}
+
+h1 {
+    padding-top: 10px;
+    font-family: 'factoria-book', sans-serif;
+    background-color: #D9782D;
+    width:100%;
+    margin-left:0px;
+    margin-right:0px;
+    text-align: center;
+}
+
+table {
+    display: inline-block;
+    margin:10px 10px 10px 10px;
+    vertical-align: top;
+    border: #C8C372 1px solid;
+    padding: 0 0 0 0;
+    border-collapse: collapse;
+
+}
+
+
+td {
+    width: 70px;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+table caption {
+    font-weight: bold;
+    letter-spacing: 3px;
+    background-color: #C8C372;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+thead {
+    margin:0px 0px 0px 0px;
+    background-color: #C8C372;
+    border-top: #1E4D2B double 3px;
+}
+thead tr {
+    margin: 0px 0px 0px 0px;
+}
+thead th{
+    margin:0px 0px 0px 0px;
+    color: #1E4D2B; /* csu green */
+    padding: 3px 3px 3px 3px;
+}
+
+tbody th {
+    font-size: 0.9em;
+    padding: 5px 5px 5px 5px;
+}
+
+tr.odd {
+    background-color: #C8C372;
+}
+
+li {
+    text-align: left;
+}
+
+.left-align {
+    text-align: left;
+}

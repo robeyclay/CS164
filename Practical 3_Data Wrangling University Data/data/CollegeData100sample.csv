@@ -1,0 +1,99 @@
+PRIMARY_COLLEGE,PRIMARY_COLLEGE_DESC,PRIMARY_DEPARTMENT_DESC,PRIMARY_MAJOR_DESC,TERM,GENDER
+NS,Natural Sciences,Psychology,Psychology,201790,F
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Engineering Science,201790,M
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201910,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201890,M
+EG,Walter Scott College of Engr,Electrical and Computer Engr,Electrical Engineering,201890,M
+NS,Natural Sciences,Psychology,Psychology,201790,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201790,M
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with EE,201890,F
+NS,Natural Sciences,Psychology,Psychology,201810,F
+NS,Natural Sciences,Biology,Zoology,201790,F
+NS,Natural Sciences,Biology,Biological Science,201810,M
+NS,Natural Sciences,Biology,Biological Science,201910,F
+NS,Natural Sciences,Chemistry,Chemistry,201860,F
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with ME,201910,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201890,M
+NS,Natural Sciences,Biology,Biological Science,201790,F
+EG,Walter Scott College of Engr,Chemical and Biological Engr,Chemical & Biological Engineer,201910,M
+NS,Natural Sciences,Mathematics,Mathematics,201810,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201890,M
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with CB,201890,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201810,F
+EG,Walter Scott College of Engr,Chemical and Biological Engr,Chemical & Biological Engineer,201910,M
+EG,Walter Scott College of Engr,Electrical and Computer Engr,Electrical Engineering,201810,M
+NS,Natural Sciences,Psychology,Psychology,201910,F
+NS,Natural Sciences,Psychology,Psychology,201890,F
+NS,Natural Sciences,Psychology,Psychology,201790,F
+NS,Natural Sciences,Psychology,Psychology,201790,F
+NS,Natural Sciences,Psychology,Psychology,201810,F
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201790,F
+NS,Natural Sciences,Biology,Biological Science,201790,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201890,M
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201890,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201890,M
+NS,Natural Sciences,Statistics,Statistics,201860,M
+EG,Walter Scott College of Engr,Civil and Environmental Engr,Environmental Engineering,201860,F
+NS,Natural Sciences,Psychology,Psychology,201910,M
+NS,Natural Sciences,Psychology,Psychology,201790,F
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with ME,201810,M
+NS,Natural Sciences,Psychology,Psychology,201890,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201910,M
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with CB,201890,F
+NS,Natural Sciences,Computer Science,Computer Science,201790,M
+NS,Natural Sciences,Computer Science,Computer Science,201890,M
+EG,Walter Scott College of Engr,Civil and Environmental Engr,Civil Engineering,201910,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201810,M
+NS,Natural Sciences,Biology,Zoology,201890,F
+EG,Walter Scott College of Engr,Civil and Environmental Engr,Civil Engineering,201810,M
+NS,Natural Sciences,Psychology,Psychology,201860,F
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201910,M
+NS,Natural Sciences,Psychology,Psychology,201810,M
+NS,Natural Sciences,Computer Science,Computer Science,201890,F
+NS,Natural Sciences,Mathematics,Mathematics,201810,M
+NS,Natural Sciences,Psychology,Psychology,201890,F
+EG,Walter Scott College of Engr,Chemical and Biological Engr,Chemical & Biological Engineer,201810,M
+EG,Walter Scott College of Engr,Electrical and Computer Engr,Computer Engineering,201890,M
+NS,Natural Sciences,Psychology,Psychology,201810,F
+NS,Natural Sciences,Psychology,Psychology,201810,F
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201810,F
+NS,Natural Sciences,Psychology,Psychology,201860,F
+NS,Natural Sciences,Psychology,Psychology,201790,F
+NS,Natural Sciences,Psychology,Psychology,201790,M
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with CB,201890,M
+NS,Natural Sciences,Psychology,Psychology,201890,F
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with ME,201810,F
+NS,Natural Sciences,Biology,Biological Science,201860,F
+EG,Walter Scott College of Engr,Chemical and Biological Engr,Chemical & Biological Engineer,201810,M
+NS,Natural Sciences,Computer Science,Computer Science,201860,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201860,M
+NS,Natural Sciences,Biology,Zoology,201790,F
+EG,Walter Scott College of Engr,Civil and Environmental Engr,Environmental Engineering,201890,M
+NS,Natural Sciences,Computer Science,Computer Science,201890,M
+NS,Natural Sciences,Psychology,Psychology,201790,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201790,F
+NS,Natural Sciences,Psychology,Psychology,201790,F
+NS,Natural Sciences,Biology,Biological Science,201910,F
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201810,M
+EG,Walter Scott College of Engr,Civil and Environmental Engr,Civil Engineering,201790,F
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201910,F
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Engineering Open Option,201890,M
+NS,Natural Sciences,Psychology,Psychology,201910,M
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201790,F
+NS,Natural Sciences,Computer Science,Computer Science,201810,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201890,M
+NS,Natural Sciences,Psychology,Psychology,201860,F
+NS,Natural Sciences,Psychology,Psychology,201790,M
+NS,Natural Sciences,Physics,Physics,201910,M
+EG,Walter Scott College of Engr,Chemical and Biological Engr,Chemical & Biological Engineer,201860,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201810,M
+NS,Natural Sciences,Psychology,Psychology,201810,M
+NS,Natural Sciences,Biology,Biological Science,201810,M
+NS,Natural Sciences,Biology,Biological Science,201910,F
+EG,Walter Scott College of Engr,Chemical and Biological Engr,Chemical & Biological Engineer,201910,F
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with ME,201860,F
+NS,Natural Sciences,Biology,Biological Science,201790,M
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201810,M
+EG,Walter Scott College of Engr,Chemical and Biological Engr,Chemical & Biological Engineer,201790,M
+NS,Natural Sciences,Psychology,Psychology,201790,F
+EG,Walter Scott College of Engr,Civil and Environmental Engr,Environmental Engineering,201890,M

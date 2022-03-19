@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <title>Practical 4: COVID-19 Data </title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- CSU required fonts -->
+    <link rel="stylesheet" href="//static.colostate.edu/fonts/proxima-nova/proxima.css" />
+    <link rel="stylesheet" href="http://static.colostate.edu/fonts/proxima-nova/proxima.css" />
+    <link rel="stylesheet" href="http://static.colostate.edu/fonts/factoria/factoria.css" />
+
+</head>
+<body>
+    <h1>Practical 4: COVID-19 Data</h1>
+    <div class="content">
+    <p>The following tables are data pulled from the the WHO database on COVID-19. Data source
+        can be found on the <a href="https://covid19.who.int/">WHO COVID Website</a>.
+    </p>
+        <p class="left-align">Click link to go to region:</p>
+            <ul>
+                <li><a href="#AFRO">African Region</a></li>
+                <li><a href="#AMRO">Americas Region</a></li>
+                <li><a href="#EMRO">Eastern Mediterranean Region</a></li>
+                <li><a href="#EURO">European Region</a></li>
+                <li><a href="#WPRO">Western Pacific and South-East Asia Region</a></li>
+            </ul>
+
+
+
+        <h2><a href="" id="AFRO"></a>AFRO Region</h2>
+        
+        {{who-table  region:AFRO cumulative:true}}
+
+       
+       
+        <h2><a href="" id="AMRO"></a>AMRO Region</h2>
+        
+        {{who-table  region:AMRO cumulative:true}}
+        
+
+        <h2><a href="" id="EMRO"></a>EMRO Region</h2>
+        
+        {{who-table  region:EMRO cumulative:true}}
+
+
+        <h2><a href="" id="EURO"></a>EURO Region</h2>
+        
+        {{who-table  region:EURO cumulative:true}}
+
+       
+        <h2><a href="" id="WPRO"></a>WPRO Region</h2>
+        
+        {{who-table  region:WPRO cumulative:true}}
+        
+
+    </div>
+
+</body>
+</html>

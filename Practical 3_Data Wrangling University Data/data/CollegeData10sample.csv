@@ -1,0 +1,10 @@
+PRIMARY_COLLEGE,PRIMARY_COLLEGE_DESC,PRIMARY_DEPARTMENT_DESC,PRIMARY_MAJOR_DESC,TERM,GENDER
+NS,Natural Sciences,Psychology,Psychology,201790,F
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Engineering Science,201790,M
+NS,Natural Sciences,Biochemistry & Molecular Biol,Biochemistry,201910,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201890,M
+EG,Walter Scott College of Engr,Electrical and Computer Engr,Electrical Engineering,201890,M
+NS,Natural Sciences,Psychology,Psychology,201790,F
+EG,Walter Scott College of Engr,Mechanical Engineering,Mechanical Engineering,201790,M
+EG,Walter Scott College of Engr,Walter Scott College of Engr,Biomedical Engineering with EE,201890,F
+NS,Natural Sciences,Psychology,Psychology,201810,F
