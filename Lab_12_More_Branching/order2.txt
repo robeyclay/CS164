@@ -1,0 +1,7 @@
+M H chocolate caramel
+L H lavender
+S I vanilla
+M B caramel
+L B mint chocolate
+L I vanilla honey
+M I chocolate
